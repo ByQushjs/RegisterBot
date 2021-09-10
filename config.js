@@ -19,7 +19,7 @@ For Emojis:
 
 module.exports = {
   bot: {
-    token: "ODcyNTczNjMxMzI1MTY3NjQ4.YQr1hQ.bv-prOMtCeqjFQgBALcXmt8OiqQ",
+    token: "",
     prefix: ".",
     embedColor: "BLURPLE",
     event: "Register Bot By ByQush | Source at https://github.com/ByQushjs/registerbot", // Bot's Presence Event
