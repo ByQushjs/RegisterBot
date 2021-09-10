@@ -22,8 +22,8 @@ module.exports = {
     token: "ODcyNTczNjMxMzI1MTY3NjQ4.YQr1hQ.bv-prOMtCeqjFQgBALcXmt8OiqQ",
     prefix: ".",
     embedColor: "BLURPLE",
-    event: "Register Bot By ByQush | Source at https://github.com/ByQushjs/registerbot",//BOTUN DURUMUNDA GÖZÜKECEK YAZIYI GİRİNİZ
-    status: "idle" //Botun Durumunu Giriniz  (idle, dnd, offline, online)
+    event: "Register Bot By ByQush | Source at https://github.com/ByQushjs/registerbot", // Bot's Presence Event
+    status: "idle" // Bot's Presence Status (idle, dnd, offline, online)
   },
 
   settings: {
