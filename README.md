@@ -13,5 +13,5 @@ Bu bot ByQush (https://github.com/ByQushjs) tarafından yapılıp ücretsiz kull
 
 > For Help | Destek İçin
 
-**Come To My Discord Server: https://discord.gg/Gq8STZcmgW **
+### Come To My Discord Server: https://discord.gg/Gq8STZcmgW
 
