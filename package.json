@@ -1,0 +1,22 @@
+{
+  "name": "RegisterBot",
+  "version": "2.0.0",
+  "description": "A Powerful Register Bot for You Excellent Discord Servers ;)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "ByQush",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "chalk": "^4.1.1",
+    "discord-button": "^1.0.3",
+    "discord-buttons": "^3.2.1",
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "void.db": "^2.0.4"
+  }
+}
